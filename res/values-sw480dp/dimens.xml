@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+      <dimen name="btn_width">200dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    
+    <dimen name="textsize_large">30dp</dimen>
+    <dimen name="textsize_medium">20dp</dimen>
+    <dimen name="textsize_normal">17dp</dimen>
+    <dimen name="textsize_small">15dp</dimen>
+    
+    <!--     Recharge Layout Padding -->
+
+<dimen name="rchrgpad_side">30dp</dimen>
+<dimen name="rchrgpad_top">40dp</dimen>
+
+</resources>
